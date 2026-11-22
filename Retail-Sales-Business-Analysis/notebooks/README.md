@@ -1,0 +1,1 @@
+Create `retail_sales_eda.ipynb` with schema review, quality checks, cleaning, EDA, charts, and verified insights.\n

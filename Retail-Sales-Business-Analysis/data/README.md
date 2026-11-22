@@ -1,0 +1,1 @@
+Add a public retail dataset. Record its name, source URL, license, download date, columns, and transformations. Do not commit confidential or personal data.\n
